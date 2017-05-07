@@ -1,5 +1,6 @@
-orig=origin/section
-dest=2/section
+pwd=`pwd`
+orig="$pwd"/'../origin/section'
+dest="$pwd"/section
 
 # 循環器・呼吸器外科の予定を 1 file に集約する．
 

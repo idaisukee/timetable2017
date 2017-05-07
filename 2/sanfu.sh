@@ -1,5 +1,6 @@
-orig=origin/section
-dest=2/section
+pwd=`pwd`
+orig="$pwd"/'../origin/section'
+dest="$pwd"/section
 
 # 産科と婦人科の予定を 1 file に集約する．
 
