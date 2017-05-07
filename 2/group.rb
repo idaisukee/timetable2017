@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-file ='/home/ieremius/prd/dat/pub/med/timetable/2017/origin/group/A.csv'
+file ='/home/ieremius/prd/dat/pub/med/timetable/2017/origin/group/C.csv'
 
 
 array = Array.new
